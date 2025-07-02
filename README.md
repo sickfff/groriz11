@@ -41,7 +41,7 @@ Whether crafting a frontend UI or designing entire universes, I thrive at the in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="[https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg](https://th.bing.com/th/id/R.d8a20385267fcde03dd76ef57afbfae9?rik=s%2bXNkgdIiWabYw&pid=ImgRaw&r=0)" width="40" alt="Unreal Engine"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/unrealengine/unrealengine-original.svg" width="40" alt="Unreal Engine"/>
 </p>
 
 ---
