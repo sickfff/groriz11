@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+![Banner](https://i.pinimg.com/736x/7d/55/50/7d5550ef90c58c7e16ba0fdcb6842155.jpg)
 ### 🧠 About Me
 
 Hi! I'm Gabriel Roriz Silva — a passionate developer, designer, and storyteller blending technology and narrative into unique experiences. Inspired by studios like **Naughty Dog**, I explore new creative frontiers through code and world-building.  
