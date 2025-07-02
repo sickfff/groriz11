@@ -7,6 +7,7 @@
 
 ---
 ![Banner](https://i.pinimg.com/736x/7d/55/50/7d5550ef90c58c7e16ba0fdcb6842155.jpg)
+
 ### 🧠 About Me
 
 Hi! I'm Gabriel Roriz Silva — a passionate developer, designer, and storyteller blending technology and narrative into unique experiences. Inspired by studios like **Naughty Dog**, I explore new creative frontiers through code and world-building.  
@@ -25,6 +26,7 @@ Whether crafting a frontend UI or designing entire universes, I thrive at the in
 </p>
 
 ---
+![Banner](https://i.pinimg.com/736x/ba/ee/b8/baeeb81d09343497bc6b443f1cefbe77.jpg)
 
 ### 🛠️ Languages & Tools
 
@@ -77,6 +79,7 @@ I'm on a mission to blend storytelling and technology in unforgettable ways. My 
 </table>
 
 ---
+![Banner](https://i.pinimg.com/736x/59/0e/08/590e08b051a1cd543b90f52db20965ba.jpg)
 
 ### 📫 Connect With Me
 
