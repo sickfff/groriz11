@@ -93,7 +93,7 @@ I'm on a mission to blend storytelling and technology in unforgettable ways. My 
 > *"From Portugal to California — one line of code at a time."*
 
 ---
-
+![Banner](https://i.pinimg.com/736x/4b/88/a3/4b88a371dc9130eda57ed510e3531632.jpg)
 <p align="center">
   <b>Built with ☕, 🎮, and ❤️</b>
 </p>
