@@ -6,7 +6,7 @@
 </p>
 
 ---
-![Banner](https://i.pinimg.com/736x/7d/55/50/7d5550ef90c58c7e16ba0fdcb6842155.jpg)
+<h1 align="center">![Banner](https://i.pinimg.com/736x/7d/55/50/7d5550ef90c58c7e16ba0fdcb6842155.jpg)</h1>
 
 ### 🧠 About Me
 
@@ -26,7 +26,7 @@ Whether crafting a frontend UI or designing entire universes, I thrive at the in
 </p>
 
 ---
-![Banner](https://i.pinimg.com/736x/ba/ee/b8/baeeb81d09343497bc6b443f1cefbe77.jpg)
+<h1 align="center">![Banner](https://i.pinimg.com/736x/ba/ee/b8/baeeb81d09343497bc6b443f1cefbe77.jpg)</h1>
 
 ### 🛠️ Languages & Tools
 
@@ -79,7 +79,7 @@ I'm on a mission to blend storytelling and technology in unforgettable ways. My 
 </table>
 
 ---
-![Banner](https://i.pinimg.com/736x/59/0e/08/590e08b051a1cd543b90f52db20965ba.jpg)
+<h1 align="center">![Banner](https://i.pinimg.com/736x/59/0e/08/590e08b051a1cd543b90f52db20965ba.jpg)</h1>
 
 ### 📫 Connect With Me
 
@@ -93,7 +93,7 @@ I'm on a mission to blend storytelling and technology in unforgettable ways. My 
 > *"From Portugal to California — one line of code at a time."*
 
 ---
-![Banner](https://i.pinimg.com/736x/4b/88/a3/4b88a371dc9130eda57ed510e3531632.jpg)
+<h1 align="center">![Banner](https://i.pinimg.com/736x/4b/88/a3/4b88a371dc9130eda57ed510e3531632.jpg)
 <p align="center">
   <b>Built with ☕, 🎮, and ❤️</b>
 </p>
