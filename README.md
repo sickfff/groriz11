@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Gabriel Roriz Silva</h1>
+<h1 align="center">👋 Hey there, I'm 𐌔𐌉𐌂𐌊.dll </h1>
 <h3 align="center">🎮 Storyteller | 💻 Frontend Developer | 🎨 Creative Coder | 🇵🇹 From Portugal</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-Hi! I'm Gabriel Roriz Silva — a passionate developer, designer, and storyteller blending technology and narrative into unique experiences. Inspired by studios like **Naughty Dog**, I explore new creative frontiers through code and world-building.  
+Hi! I'm 𐌔𐌉𐌂𐌊.dll — a passionate developer, designer, and storyteller blending technology and narrative into unique experiences. Inspired by studios like **Naughty Dog**, I explore new creative frontiers through code and world-building.  
 Whether crafting a frontend UI or designing entire universes, I thrive at the intersection of **creativity** and **logic**.
 
 🚀 **Highlight Project**:  
