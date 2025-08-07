@@ -2,7 +2,7 @@
 <h3 align="center">🎮 Storyteller | 💻 Frontend Developer | 🎨 Creative Coder | 🇵🇹 From Portugal</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=groriz11&label=Profile%20views&color=0e75b6&style=flat" alt="groriz11" />
+  <img src="https://komarev.com/ghpvc/?username=sickfff11&label=Profile%20views&color=0e75b6&style=flat" alt="sickfff11" />
 </p>
 
 ---
@@ -18,13 +18,13 @@ Whether crafting a frontend UI or designing entire universes, I thrive at the in
 🚀 **Highlight Project**:  
 > **The Last of Us Part III: Echoes of Redemption**  
 > A comprehensive, fan-made concept sequel to the legendary TLOU series — developed with deep respect and emotional nuance.  
-> 👉 [Explore the full project on GitHub](https://github.com/groriz11/TLOU-3---BY-ME)
+> 👉 [Explore the full project on GitHub](https://github.com/sickfff11/TLOU-3---BY-ME)
 
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=groriz11&theme=darkhub&title=Stars,Followers,Repositories,Commit" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sickfff11&theme=darkhub&title=Stars,Followers,Repositories,Commit" alt="trophies" />
 </p>
 
 ---
@@ -55,9 +55,9 @@ Whether crafting a frontend UI or designing entire universes, I thrive at the in
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=groriz11&theme=dark&show_icons=true&icon_color=FF4C4C&title_color=FF4C4C&text_color=ffffff" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sickfff11&theme=dark&show_icons=true&icon_color=FF4C4C&title_color=FF4C4C&text_color=ffffff" alt="stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=groriz11&theme=dark&layout=compact&title_color=FF4C4C&text_color=ffffff" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickfff11&theme=dark&layout=compact&title_color=FF4C4C&text_color=ffffff" alt="top-langs" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ Whether crafting a frontend UI or designing entire universes, I thrive at the in
 I'm on a mission to blend storytelling and technology in unforgettable ways. My biggest dream is to collaborate with narrative-driven studios like Naughty Dog, building games that challenge emotions and minds. I’m currently developing interactive projects that explore morality, trauma, and survival — including a fan-made vision of The Last of Us Part III.
 
 👉 To track my full developer journey, check out:  
-<a href="https://github.com/groriz11/Dev-Journey-ND" style="color:#FF4C4C;"><b>github.com/groriz11/Dev-Journey-ND</b></a>
+<a href="https://github.com/sickfff11/Dev-Journey-ND" style="color:#FF4C4C;"><b>github.com/sickfff11/Dev-Journey-ND</b></a>
 </p>
 
 </td>
@@ -89,7 +89,7 @@ I'm on a mission to blend storytelling and technology in unforgettable ways. My 
 
 ### 📫 Connect With Me
 
-- 💬 [GitHub:](https://github.com/groriz11)
+- 💬 [GitHub:](https://github.com/sickfff11)
 - 🌐 Portfolio (coming soon)
 
 ---
