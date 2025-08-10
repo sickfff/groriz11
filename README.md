@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hey there, I'm 𐌔𐌉𐌂𐌊.dll </h1>
 <h3 align="center">🎮 Storyteller | 💻 Frontend Developer | 🎨 Creative Coder | 🇵🇹 From Portugal</h3>
 
+![Discord Presence](https://lanyard.cnrad.dev/api/1388643132916371502?theme=dark)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sickfff&label=Profile%20views&color=0e75b6&style=flat" alt="sickfff" />
 </p>
